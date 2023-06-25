@@ -1,0 +1,54 @@
+.bg{
+    background-color: blueviolet;
+    background-size:cover;
+    height:100vh;
+    padding:50px;
+}   
+
+
+
+.card{
+    border-style:solid;
+    border-radius:10px;
+    border-width:10px;
+    border-color:black;
+    margin:200px;
+    margin-left:900px;
+    height:900px;
+    width:800px;
+    
+}
+.head{
+    font-family:"Roboto";
+    font-weight:bold;
+    text-align:center;
+    margin-top:10px;
+    color:red;
+    font-size:60px;
+}
+.user-input {
+    height: 70px;
+    border-style: solid;
+    border-width: 6px;
+    border-color: black;
+    border-radius: 8px;
+    padding-left: 12px;
+    margin-left:20px;
+    margin-right:20px;
+    font-size:30px;
+    font-weight:bold;
+}
+.input-label{
+    font-family:"Roboto";
+    font-weight:bold;
+    font-size:40px;
+    margin-left:20px;
+}
+.p{
+    text-align:center;
+}
+.button{
+    
+    font-size:40px;
+    padding:10px;
+}
